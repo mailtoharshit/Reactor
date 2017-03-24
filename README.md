@@ -1,2 +1,2 @@
-# Reactor-
+# Reactor
 Spin up React Application Instantly
